@@ -1,5 +1,7 @@
 # Markdown cross platform notes app
 
+Memory that lasts forever.
+
 #### What's the problem?
 
 Markdown is extremely useful for writing comprehensive notes, but can be scary to use for a non programmer.
@@ -19,3 +21,11 @@ The issue is there are already apps that do this, such as obsidian and Notion, b
 1. Needs to be very convenient to find different pages.
 
 
+#### Feature Ideas
+
+- Popout markdown preview, or popout multiple pages to their own window.
+
+
+#### Min Req Flow Diagram
+
+<img src=".images\quartz_flow.jpg">
